@@ -190,9 +190,12 @@ section{
 .services .box-container .box{
     text-align: center;
     border: var(--border);
-    box-shadow: var(--box-shadow);
     border-radius: .5rem;
     padding: 4rem 2rem;
+}
+
+.services .box-container .box:hover{
+    box-shadow: var(--box-shadow);
 }
 
 .services .box-container .box img{
@@ -361,7 +364,11 @@ section{
     padding: 2rem;
     border-radius: .5rem;
     border: var(--border);
+}
+
+.pricing .box-container .box:hover{
     box-shadow: var(--box-shadow);
+    
 }
 
 .pricing .box-container .box h3{
@@ -406,7 +413,11 @@ section{
     padding: 2rem;
     border-radius: .5rem;
     border: var(--border);
+}
+
+.review .box-container .box:hover{
     box-shadow: var(--box-shadow);
+
 }
 
 .review .box-container .box .user{
@@ -459,7 +470,11 @@ section{
     text-align: center;
     border: var(--border);
     border-radius: .5rem;
+}
+
+.contact .icons-container .icons:hover{
     box-shadow: var(--box-shadow);
+
 }
 
 .contact .icons-container .icons i{
@@ -504,7 +519,6 @@ section{
     flex: 1 1 45rem;
     padding: 2rem;
     border: var(--border);
-    box-shadow: var(--box-shadow);
     border-radius: .5rem;
 }
 
