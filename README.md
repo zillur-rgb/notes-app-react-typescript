@@ -11,8 +11,8 @@ At first I designed this in figma and then I started the coding. Sometimes I fel
 
 ### Links
 
-- Solution URL: [Later](https://your-solution-url.com)
-- Live Site URL: [later](https://your-live-site-url.com)
+- Design URL: [dribbble](https://dribbble.com/shots/16593871-Marketing-Agency-Website-UI-and-Frontend-Basic)
+- Live Site URL: [Live Site](https://zillur-rgb.github.io/marketo/)
 
 ### Built with
 
