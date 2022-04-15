@@ -1,38 +1,46 @@
-# Website Homepage for Marketing Company
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-## Overview
-My target was to design a page for a marketing agency. I tried to make it trendy but still easy to scroll for user.
+In the project directory, you can run:
 
-### The challenge
-At first I designed this in figma and then I started the coding. Sometimes I felt some challenge in making the page responsive because I wanted to make it responsive using as few media queries as I could use. Also there is a tiny bit of javascript I used to make it responsive and user friendly.
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Links
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-- Design URL: [dribbble](https://dribbble.com/shots/16593871-Marketing-Agency-Website-UI-and-Frontend-Basic)
-- Live Site URL: [Live Site](https://zillur-rgb.github.io/marketo/)
+### `npm test`
 
-### Built with
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Figma
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Grid
-- Vanilla Javascript
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Useful resources
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Font that is used: Nunito
-- For designing the layout I used Figma.
-- Image is taken www.storyset.com and from fontawesome.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Author
+### `npm run eject`
 
-- Website - [MD Zillur Rahman](https://github.com/zillur-rgb)
-- My Design Portfolio: [Behance](https://www.behance.net/zillursPortfolio) [Dribbble](https://dribbble.com/zillur-rgb)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Thank you.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
