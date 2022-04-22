@@ -26,6 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/zillur-rgb/notes-app-react-typescript](https://github.com/zillur-rgb/notes-app-react-typescript)
+- Live URL: [https://silly-kulfi-eba079.netlify.app/](https://silly-kulfi-eba079.netlify.app/)
 
 ### Built with
 
